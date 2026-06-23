@@ -59,7 +59,7 @@
 > Entre 2022 y 2026, mi enfoque principal estuvo dedicado al desarrollo de **sistemas empresariales privados** bajo **estrictos acuerdos de confidencialidad (NDA)**. Durante este período trabajé en:
 >
 > - Arquitecturas escalables para aplicaciones de alto tráfico
-> - Sistemas críticos de procesamiento de datos financieros
+> - Sistemas críticos de procesamiento de datos
 > - Plataformas multi-tenant con seguridad de nivel enterprise
 > - Modernización de legacies a microservicios
 >
